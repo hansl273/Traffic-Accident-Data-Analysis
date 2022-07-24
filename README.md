@@ -16,6 +16,7 @@ Traffic Accident Data Analysis(EDA, Apriori, Hybrid Model)
 ![image](https://user-images.githubusercontent.com/106146283/180670140-52e493f6-974b-4969-9f44-964da79d1a5d.png)
 
 2. Random Forest - 랜덤포레스트
+
 앙상블 기법이며 의사나무결정(Decision Tree)을 여러개로 훈련시킨 후 그 정확도의 평균을 구하는 기법
 
 ​
