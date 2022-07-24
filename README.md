@@ -18,6 +18,7 @@ Traffic Accident Data Analysis(EDA, Apriori, Hybrid Model)
 2. Random Forest - 랜덤포레스트
 
 앙상블 기법이며 의사나무결정(Decision Tree)을 여러개로 훈련시킨 후 그 정확도의 평균을 구하는 기법
+
 ​
 장점
 
@@ -28,6 +29,7 @@ Traffic Accident Data Analysis(EDA, Apriori, Hybrid Model)
 데이터 scale, 즉 단위의 영향을 받지 않음
 
 Overfitting, 과적합이 잘 되지 않음 - 여러 모델의 평균을 구하기 때문
+
 ​
 단점
 
