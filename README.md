@@ -2,6 +2,8 @@
 Traffic Accident Data Analysis(EDA, Apriori, Hybrid Model)
 ![image](https://user-images.githubusercontent.com/106146283/177912974-7d4fadb4-8781-455c-b5f1-7d09d28879de.png)
 
+가. 
+
 1. 의사결정나무는 분류나무, 회귀나무로 구분
 
 분류나무
@@ -88,7 +90,9 @@ GPU 학습 지원
 
 작은 dataset을 사용할 경우 과적합 가능성이 크다 (일반적으로 10,000개 이하의 데이터를 적다고 한다)
 
-* 데이터 불균형 처리 방법
+
+
+나. 데이터 불균형 처리 방법
 언더샘플링
 
 1. 무작위추출 : 무작위로 정상 데이터를 일부만 선택
@@ -97,4 +101,4 @@ GPU 학습 지원
 
 언더샘플링의 경우 데이터의 소실이 매우 크고, 때로는 중요한 정상데이터를 잃게 될 수 있다.
 
-img_area
+
